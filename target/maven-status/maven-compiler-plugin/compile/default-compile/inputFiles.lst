@@ -1,0 +1,15 @@
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/model/IoTDevice.java
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/offloading/OffloadingController.java
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/offloading/OffloadingTarget.java
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/model/Task.java
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/simulation/SimulationEnvironment.java
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/demo/SimpleSimulationDemo.java
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/simulation/SimulationRunner.java
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/offloading/OffloadingDecision.java
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/model/UAV.java
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/demo/MinimalSimulation.java
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/offloading/DeepLearningOffloadingController.java
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/EdgeFogTaskOffloading.java
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/visualization/SimulationVisualizer.java
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/simulation/SimulationMetrics.java
+/home/wexa/CascadeProjects/EdgeFogTaskOffloading/src/main/java/org/edgefog/model/IoTNodeLocation.java
